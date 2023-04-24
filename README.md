@@ -1,2 +1,7 @@
 # Read-me
-Learning front end 
+High school 🏫
+
+Learning front end 📚
+
+Building my own webapp 💪
+
